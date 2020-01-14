@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729059848603",
+    "firebase_url": "https://travelguider-b9376.firebaseio.com",
+    "project_id": "travelguider-b9376",
+    "storage_bucket": "travelguider-b9376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729059848603:android:1e5430bb4c18fb3dfd713e",
+        "android_client_info": {
+          "package_name": "com.travelguider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729059848603-g9bc5nun57087akga3akcsnp87tmvjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvDrKK-iwdhW3CRQA7R4vozGvJksruL8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729059848603-g9bc5nun57087akga3akcsnp87tmvjuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
