@@ -18,7 +18,7 @@
     "js-base64": "^2.5.1",
     "native-base": "^2.13.8",
     "react": "16.9.0",
-    "react-native": "0.61.4",
+    "react-native": "0.62.3",
     "react-native-clean-project": "^3.2.4",
     "react-native-elements": "^1.2.6",
     "react-native-firebase": "^5.5.6",
